@@ -1,5 +1,4 @@
-<img width="1500" height="500" alt="Black and Gray Elegant Business Twitter Header" src="https://github.com/user-attachments/assets/c5d8f370-fa5a-4410-8a4e-9377c54ada26" />
-
+<img width="2000" height="400" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/9a092c6c-150b-43d7-b04e-172663fe2d13" />
 
 # Hi 👋, I'm Tokitul Osmani
 
