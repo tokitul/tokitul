@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_1=0e75b6&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00c6ff,100:0072ff&height=200&section=header&text=Tokitul%20Osmani&fontSize=40&fontColor=fff" />
 </p>
 # Hi 👋, I'm Tokitul Osmani
 
