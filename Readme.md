@@ -1,4 +1,5 @@
-https://canva.link/wja7v1kspscsy5t
+![Uploading Black and Gray Elegant Business Twitter Header.png…]()
+
 # Hi 👋, I'm Tokitul Osmani
 
 ### Aspiring Data Science
