@@ -1,4 +1,5 @@
-<img width="2000" height="400" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/9a092c6c-150b-43d7-b04e-172663fe2d13" />
+<img width="2000" height="600" alt="Black Minimalist Linkedin Banner (1)" src="https://github.com/user-attachments/assets/7b6e9c20-4ef2-45ec-84fc-ca42074d6bf5" />
+
 
 # Hi 👋, I'm Tokitul Osmani
 
