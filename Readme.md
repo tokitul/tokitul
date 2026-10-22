@@ -1,4 +1,5 @@
-![Uploading Black and Gray Elegant Business Twitter Header.png…]()
+<img width="1500" height="500" alt="Black and Gray Elegant Business Twitter Header" src="https://github.com/user-attachments/assets/c5d8f370-fa5a-4410-8a4e-9377c54ada26" />
+
 
 # Hi 👋, I'm Tokitul Osmani
 
