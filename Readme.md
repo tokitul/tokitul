@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00c6ff,100:0072ff&height=200&section=header&text=Tokitul%20Osmani&fontSize=40&fontColor=fff" />
-</p>
+https://canva.link/wja7v1kspscsy5t
 # Hi 👋, I'm Tokitul Osmani
 
 ### Aspiring Data Science
